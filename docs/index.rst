@@ -44,7 +44,7 @@ Guest Post Sites Information
      - DA
      - PA
      - Contact
-   * - Atespost.com
+   * - atespost.com
      - 53
      - 44
      - `Contact <https://atespost.com/contact-for-guest-post/>`_
