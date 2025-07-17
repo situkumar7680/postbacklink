@@ -44,50 +44,51 @@ Guest Post Sites Information
      - DA
      - PA
      - Contact
-   * - atespost.com
-     - 53
-     - 44
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - sites.google.com
-     - 96
-     - 85
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - medium.com
-     - 95
-     - 90
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - issuu.com
-     - 93
-     - 86
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - github.com
-     - 98
-     - 92
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - adobe.com
-     - 97
-     - 91
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - wordpress.com
-     - 94
-     - 88
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - wix.com
-     - 89
-     - 80
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - weebly.com
-     - 85
-     - 79
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - blogger.com
-     - 91
-     - 84
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
-   * - tumblr.com
-     - 90
-     - 83
-     - `Contact <https://atespost.com/contact-for-guest-post/>`_
+   * - Atespost.com 🌐
+     - 53 🏅
+     - 44 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - sites.google.com 🌐
+     - 96 🏅
+     - 85 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - medium.com 🌐
+     - 95 🏅
+     - 90 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - issuu.com 🌐
+     - 93 🏅
+     - 86 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - github.com 🌐
+     - 98 🏅
+     - 92 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - adobe.com 🌐
+     - 97 🏅
+     - 91 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - wordpress.com 🌐
+     - 94 🏅
+     - 88 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - wix.com 🌐
+     - 89 🏅
+     - 80 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - weebly.com 🌐
+     - 85 🏅
+     - 79 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - blogger.com 🌐
+     - 91 🏅
+     - 84 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+   * - tumblr.com 🌐
+     - 90 🏅
+     - 83 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+
 
 
 
